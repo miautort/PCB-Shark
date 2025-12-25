@@ -9,7 +9,7 @@ Here's the component list:
 | Microcontroller  | MSP430G2553IN20 (U1) | 
 | LED  | 12* ; both 3mm and 5mm are compatible    |
 | Capacitors | 1x1nF (C1) ; 1x10uF (C3) ; 1x22uF (C2) |
-| Connectors | Micro-USB B for power (J2) ; 4-pin for programming (J1) |
+| Connectors | Micro-USB for power (J2) ; 4-pin for programming (J1) |
 | Resistors | 1x100kOhm (R1) ; 6x330** Ohm |
 | Quartz Crystal | 32kHz (Y1) |
 | Voltage Regulator | TLV1117-33 (U2) |
@@ -18,7 +18,7 @@ Here's the component list:
 
 **The resistor values depend on the chosen LED color
 
-Below is a screenshot of the electric circuit itself; below that the PCB design, first without mass plan, then with.
+Below is a screenshot of the electric circuit itself; below that the PCB design, first without ground plan, then with.
 
 <img width="914" height="623" alt="image" src="https://github.com/user-attachments/assets/86bd527a-af78-4e02-9bc0-3a3d2d9862e2" />
 
